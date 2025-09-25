@@ -28,6 +28,7 @@ El objetivo es crear un espacio colaborativo para intercambiar experiencias de l
 * Base de datos: PostgreSQL
 * Despliegue: Render
 
+---
 
  ### ⛓️‍💥 Enlace
 
