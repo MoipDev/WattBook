@@ -1,6 +1,6 @@
 # WattBook
 
-Una red social para amantes de los libros, donde puedes compartir títulos, opinar y descubrir nuevas lecturas recomendadas por la comunidad.
+Un proyecto académico sobre una red social para amantes de los libros, donde puedes compartir títulos, opinar y descubrir nuevas lecturas recomendadas por la comunidad.
 
 
 
@@ -29,6 +29,7 @@ El objetivo es crear un espacio colaborativo para intercambiar experiencias de l
 * Despliegue: Render
 
 
-📦 uso
+⛓️‍💥 Enlace
+https://frontend-kz1b.onrender.com
 
 
